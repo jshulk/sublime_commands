@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Git",
+		"Highlighter",
+		"Origami",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray"
+	]
+}
